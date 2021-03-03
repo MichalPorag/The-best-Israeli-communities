@@ -1,7 +1,7 @@
 ## The-best-Israeli-communities
 
 ### Facebook:
-* [מתכנתים צעירים](https://www.facebook.com/groups/645409222247058/)
+* [מפתחים ומפתחות ג׳וניורים](https://www.facebook.com/groups/645409222247058/)
 * [בית למפתחי ווב ג'וניורים](https://www.facebook.com/groups/1222969534726124)
 * [באות](https://www.facebook.com/groups/1433362546987936)
 * [CSS Masters Israel](https://www.facebook.com/groups/css.masters.israel)
